@@ -1,0 +1,17 @@
+body {
+    background-image: url(./images/kenny.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(33, 31, 31);
+    height: 89vh;
+    width: 100%;
+    color: rgb(252, 252, 252);
+    position: relative;
+    padding: 50px;
+background-attachment:scroll;
+background-position:center;
+    backdrop-filter: blur(5px);
+   
+
+}
